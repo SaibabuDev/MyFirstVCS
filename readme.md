@@ -1,1 +1,3 @@
-demonstating git 
+demonstating git
+TODO: Adding Branch stategy 
+in mster 
